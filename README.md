@@ -1,1 +1,4 @@
-# Module-1-Base-Computing-with-Python
+## [ECE 2112] ADVANCED COMPUTER PROGRAMMING AND ALGORITHMS
+S.Y. ‘26 - ‘27  | SECOND YEAR | FIRST SEM | hzlcbl
+
+## Module 1: Base Computing with Python
